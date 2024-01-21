@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 /**
 *
-* @author kripa
+* @author gopik
 */
 public class NewJFrame extends javax.swing.JFrame {
 /**
